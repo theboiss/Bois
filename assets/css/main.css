@@ -3400,7 +3400,7 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: #242943;
+			background-color: #565656;
 			content: '';
 			display: block;
 			height: 100%;
@@ -3502,6 +3502,14 @@ input, select, textarea {
 
 		#banner.style6:after {
 			background-color: #87c5a4;
+		}
+
+		#banner.style7:after {
+			background-color: #73bad3;
+		}
+
+		#banner.style8:after {
+			background-color: #8d84bd;
 		}
 
 		body.is-preload #banner:after {
